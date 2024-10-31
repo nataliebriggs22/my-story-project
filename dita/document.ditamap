@@ -2,6 +2,7 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>Tangled</title>
+    <topicref href="index.dita"/>
     <topicref href="chapter-1.dita"/>
     <topicref href="chapter-2.dita"/>
     <topicref href="chapter-3.dita"/>
