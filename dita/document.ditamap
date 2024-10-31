@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Tangled</title>
+    <topicref href="chapter-1.dita"/>
+    <topicref href="chapter-2.dita"/>
+    <topicref href="chapter-3.dita"/>
+    <topicref href="chapter-4.dita"/>
+    <topicref href="chapter-5.dita"/>
+    <topicref href="chapter-6.dita"/>
+    <topicref href="chapter-7.dita"/>
+</map>
