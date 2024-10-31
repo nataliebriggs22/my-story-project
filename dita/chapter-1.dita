@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_xmc_zwq_fdc">
-    <title>chapter 1</title>
+    <title>Meet Rapunzel</title>
     <body>
-        <p></p>
+        <p audience="adult">Rapunzel is a young woman who lives in isolation in a tower, with long
+            blonde hair that glows when she sings. The only other person she sees is her guardian,
+            Mother Gothel, who keeps her hidden for reasons unknown to Rapunzel. On her 18th
+            birthday, Rapunzel starts asking questions about her life and the world outside of the
+            tower which leads her to become suspicious of her "mother." </p>
+        <p audience="children">Rapunzel lives in a tal, shimmering, hidden tower with her mother.
+            She has magnificent hair that shines like gold with a magical glow. Every night she
+            watches glowing laterns float past her window and she dreams of seeing them up close.
+            She's not sure why her mother won't let her leave the tower, but she has a feeling
+            something exciting is waiting for her. </p>
     </body>
 </topic>
