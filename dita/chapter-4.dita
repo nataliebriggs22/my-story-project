@@ -14,11 +14,9 @@
             Flynn. </p>
         <fig id="fig_yjt_j1z_fdc">
             <title>Hiding from the guards<image href="hiding%20from%20guards.jpg"
-                    id="image_arg_p1z_fdc">
-                    <alt>Rapunzel and Flynn hiding from the royal guards in the dark forest.</alt>
-                </image><image href="hiding%20from%20guards%202.jpg" id="image_f2v_k1z_fdc">
-                    <alt>Rapunzel being scared with Flynn while being outside. </alt>
-                </image></title>
+                    id="image_arg_p1z_fdc" alt="Flynn and Rapunzel laying low in the forrest."
+                    /><image href="hiding%20from%20guards%202.jpg" id="image_f2v_k1z_fdc"
+                    alt="Flynn and Rapunzel in the forrest."/></title>
         </fig>
     </body>
 </topic>

@@ -17,12 +17,9 @@
         <fig id="fig_dv1_4zy_fdc">
             <title>Flynn and Rapunzel on their journey</title>
         </fig>
-        <image href="images.jpg" id="image_gth_21z_fdc">
-            <alt>Rapunzel and Flynn laying low on their journey to see the floating laterns.</alt>
-        </image>
-        <image href="rapunzel%20and%20flynn%20outside.jpg" id="image_dbz_c1z_fdc">
-            <alt>Rapunzel exploring the outside world for the first time with a wonderous look on
-                her face.</alt>
-        </image>
+        <image href="images.jpg" id="image_gth_21z_fdc"
+            alt="Flynn and Rapunzel hiding from the guards."/>
+        <image href="rapunzel%20and%20flynn%20outside.jpg" id="image_dbz_c1z_fdc"
+            alt="Rapunzel exploring the outside world for the first time."/>
     </body>
 </topic>
