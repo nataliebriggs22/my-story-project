@@ -12,5 +12,13 @@
         <p audience="children">Rapunzel's peaceful day is interrupted by a kind and funny stranger
             climbing her tower. He has a mysterious bag with himm, and Rapunzel m akes a deal: if
             he takes her to gsee the floatingl lights, she wilgl return his bag.</p>
+        <fig id="fig_w3c_hzy_fdc">
+            <title>Rapunzel and Flynn<image href="flynn%20climbing%20tower.jpg"
+                    id="image_xhh_mzy_fdc">
+                    <alt>Flynn climbing up the side of Rapunzel's tower.</alt>
+                </image><image href="rapunzel%20chap%201.jpg" id="image_ywn_3zy_fdc">
+                    <alt>Rapunzel with her chameleon Pascal on her shoulder.</alt>
+                </image></title>
+        </fig>
     </body>
 </topic>

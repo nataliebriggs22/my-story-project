@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_xmc_zwq_fdc">
-    <title>chapter 4</title>
+    <title>Meeting the Real World</title>
     <body>
-        <p></p>
+        <p audience="adult">Rapunzel and Flynn nervously wait out the guards trying their best to be
+            as quiet as possible. The guards all searching all around them and one wrong move will
+            give them away. Eventually the guards leave and they can take a deep breath, for now.
+            They start again on their journey to see the floating lights but have no idea what else
+            is in store for them on this trip. </p>
+        <p audience="children">Rapunzel loves the freedom of the outside world. In fact, she loves
+            everything about the outside world, especially running barefoot through the grass. She
+            dances with villagers, tries new food, and feels like she is becoming friends with
+            Flynn. </p>
+        <fig id="fig_yjt_j1z_fdc">
+            <title>Hiding from the guards<image href="hiding%20from%20guards.jpg"
+                    id="image_arg_p1z_fdc">
+                    <alt>Rapunzel and Flynn hiding from the royal guards in the dark forest.</alt>
+                </image><image href="hiding%20from%20guards%202.jpg" id="image_f2v_k1z_fdc">
+                    <alt>Rapunzel being scared with Flynn while being outside. </alt>
+                </image></title>
+        </fig>
     </body>
 </topic>

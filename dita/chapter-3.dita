@@ -3,7 +3,7 @@
 <topic id="topic_xmc_zwq_fdc">
     <title>The Great Escape</title>
     <body>
-        <p audience="adult">While Gothel was out running a lenghthy errand, Rapunzel and Flynn set
+        <p audience="adult">While Gothel was out running a lengthy errand, Rapunzel and Flynn set
             out on their journey. Rapunzel is naive and doesn't realize that Flynn could be a danger
             to her, and Flynn is hoping that plays right into his hands, as he tries to scare
             Rapunzel and convince her to turn around and head back to the tower. He doesn't have to
@@ -11,8 +11,18 @@
             before. They run through the forest, tripping and running into tree's and bushes,
             scraping her skin up. They find solace in a hollow tree and hope that they have lost the
             guards.</p>
-        <p audience="children">Rapunzel sneaks out  of the tower with Flynn, excited to finally
+        <p audience="children">Rapunzel sneaks out of the tower with Flynn, excited to finally
             explore the real world! They run into a few wild animals and have to trek through some
-            rough roads, but they yenjoy the grass on their feet and the fresh air.</p>
+            rough roads, but they enjoy the grass on their feet and the fresh air.</p>
+        <fig id="fig_dv1_4zy_fdc">
+            <title>Flynn and Rapunzel on their journey</title>
+        </fig>
+        <image href="images.jpg" id="image_gth_21z_fdc">
+            <alt>Rapunzel and Flynn laying low on their journey to see the floating laterns.</alt>
+        </image>
+        <image href="rapunzel%20and%20flynn%20outside.jpg" id="image_dbz_c1z_fdc">
+            <alt>Rapunzel exploring the outside world for the first time with a wonderous look on
+                her face.</alt>
+        </image>
     </body>
 </topic>

@@ -1,8 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_xmc_zwq_fdc">
-    <title>chapter 5</title>
+    <title>Lanterns in The Sky</title>
     <body>
-        <p></p>
+        <p audience="adult">After a long and arduous journey, Rapunzel and Flynn finally make it to
+            see the lanterns. Rapunzel is overcome with emotion for reasons unknown to her. She
+            feels connected to this place somehow. She notices Flynn is acting strange and keeps
+            looking over his shoulder. They take a boat out on the water to get a better view of the
+            lanterns and Flynn won't make eye contact with her. She decides to ask him about his
+            strange behavior and nothing could have prepared her for the answer.</p>
+        <p audience="children">When Rapunzel sees the lanterns, she is filled with wonder and joy.
+            This moment is everything she has dreamed of her whole life. She stares up at the sky in
+            wonder and thanks Flynn for bringing her to see them. They take a boat out on the water
+            to see the laterns better. As they are in the boat, Rapunzel and Flynn realize that they
+            are actually becoming really good friends and are happy that they met each other.</p>
+        <fig id="fig_yvv_z1z_fdc">
+            <title>Floating lanterns<image href="floating%20laterns.jpg" id="image_htx_bbz_fdc">
+                    <alt>Rapunzel and Flynn on a boat watching the floating lanterns rise above the
+                        castle.</alt>
+                </image><image href="lanterns.jpg" id="image_tpj_bbz_fdc">
+                    <alt>The boat Rapunzel and Flynn are in surrounded by floating laterns.</alt>
+                </image></title>
+        </fig>
     </body>
 </topic>

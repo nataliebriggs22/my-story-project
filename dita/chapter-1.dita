@@ -8,10 +8,16 @@
             Mother Gothel, who keeps her hidden for reasons unknown to Rapunzel. On her 18th
             birthday, Rapunzel starts asking questions about her life and the world outside of the
             tower which leads her to become suspicious of her "mother." </p>
-        <p audience="children">Rapunzel lives in a tal, shimmering, hidden tower with her mother.
+        <p audience="children">Rapunzel lives in a tall, shimmering, hidden tower with her mother.
             She has magnificent hair that shines like gold with a magical glow. Every night she
             watches glowing laterns float past her window and she dreams of seeing them up close.
             She's not sure why her mother won't let her leave the tower, but she has a feeling
             something exciting is waiting for her. </p>
+        <fig id="fig_tht_gyy_fdc">
+            <title>Rapunzel's Tower</title>
+            <image href="tower%20chap%201.jpg" id="image_dmy_dzy_fdc">
+                <alt>Image of Rapunzel's tower and the waterfall and mountains surrounding it.</alt>
+            </image>
+        </fig>
     </body>
 </topic>
